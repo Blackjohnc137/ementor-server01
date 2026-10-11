@@ -2,3 +2,4 @@ google-genai
 mss
 pillow
 python-dotenv
+flask

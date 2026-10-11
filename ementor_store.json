@@ -1,0 +1,102 @@
+{
+  "rgte": {
+    "account": {
+      "student_id": "rgte",
+      "email": "rgte@f",
+      "name": "rgh",
+      "status": "active"
+    },
+    "profile": {
+      "department": "Electromechanical Engineering",
+      "year": 3,
+      "background_skills": []
+    },
+    "knowledge_history": {
+      "known_areas": [],
+      "gaps": []
+    },
+    "courses": [],
+    "projects": {},
+    "active_project_id": null
+  },
+  "ey": {
+    "account": {
+      "student_id": "ey",
+      "email": "ey@f",
+      "name": "yr",
+      "status": "active"
+    },
+    "profile": {
+      "department": "Electromechanical Engineering",
+      "year": 3,
+      "background_skills": []
+    },
+    "knowledge_history": {
+      "known_areas": [],
+      "gaps": []
+    },
+    "courses": [],
+    "projects": {},
+    "active_project_id": null
+  },
+  "Yohannes.blk": {
+    "account": {
+      "student_id": "Yohannes.blk",
+      "email": "Yohannes.blk@gmail.com",
+      "name": "Yohannes Tadesse",
+      "status": "active"
+    },
+    "profile": {
+      "department": "Electromechanical Engineering",
+      "year": 3,
+      "background_skills": []
+    },
+    "knowledge_history": {
+      "known_areas": [],
+      "gaps": []
+    },
+    "courses": [],
+    "projects": {},
+    "active_project_id": null
+  },
+  "yohannestadesse0961": {
+    "account": {
+      "student_id": "yohannestadesse0961",
+      "email": "yohannestadesse0961@gmail.com",
+      "name": "Yohannes Tadesse Ambelu",
+      "status": "active"
+    },
+    "profile": {
+      "department": "Electromechanical Engineering",
+      "year": 3,
+      "background_skills": []
+    },
+    "knowledge_history": {
+      "known_areas": [],
+      "gaps": []
+    },
+    "courses": [],
+    "projects": {},
+    "active_project_id": null
+  },
+  "dfd": {
+    "account": {
+      "student_id": "dfd",
+      "email": "dfd@fds",
+      "name": "fdsf",
+      "status": "active"
+    },
+    "profile": {
+      "department": "Electromechanical Engineering",
+      "year": 3,
+      "background_skills": []
+    },
+    "knowledge_history": {
+      "known_areas": [],
+      "gaps": []
+    },
+    "courses": [],
+    "projects": {},
+    "active_project_id": null
+  }
+}
